@@ -17,13 +17,12 @@ while True:
     # Receive the data in small chunks and retransmit it
     while True:
         data = connection.recv(10000)
-        print (f'received {len(data)}')
+        print(f"data received with {len(data)} length")
+        hasil = open("dariserver" + ".jpg", 'a+b')
+        if not data:
+            hasil.close()
+            break
+        hasil.write(data)
         # print (f'sending {thalut}')
-        if data:
-            print ('sending data back to the client')
-            connection.sendall(data)
-        else:
-            print (sys.stderr, 'no more data from', client_address)
-            break 
     # Clean up the connection
     connection.close()
