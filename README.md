@@ -10,3 +10,5 @@ Tugas1 :
 - MODIFIKASILAH program server.py agar dapat mengirimkan MENTRANSFER FILE yang di request oleh client (letakkan program modifikasi di direktori tugas1b)
 - LETAKKAN di repository github anda SENDIRI dengan folder tugas1
 
+Tugas 2 :
+- Capture hasil wireshark pada file udpfileclient.py dan udp_simple.py
