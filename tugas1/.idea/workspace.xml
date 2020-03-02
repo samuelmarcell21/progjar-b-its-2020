@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b864d517-83f2-476e-8611-bdb73e325c75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tugas1a/dariserver.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tugas1a/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tugas1a/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tugas1b/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tugas1b/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +22,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../progjar2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,8 +36,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.client">
-    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.client (2)">
+    <configuration name="client (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tugas1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,6 +51,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tugas1a/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tugas1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tugas1b" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tugas1b/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tugas1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,9 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.client" />
-        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python.client (2)" />
         <item itemvalue="Python.server" />
+        <item itemvalue="Python.client (1)" />
+        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python.client" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +169,7 @@
       <updated>1581860849673</updated>
       <workItem from="1581860850800" duration="75000" />
       <workItem from="1581995376672" duration="82000" />
+      <workItem from="1583139357668" duration="1397000" />
     </task>
     <servers />
   </component>
@@ -138,8 +190,13 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tugas1$client.coverage" NAME="client Coverage Results" MODIFIED="1581860909263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tugas1a" />
-    <SUITE FILE_PATH="coverage/tugas1$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1581860904593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tugas1a" />
-    <SUITE FILE_PATH="coverage/tugas1$server.coverage" NAME="server Coverage Results" MODIFIED="1581860871275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tugas1b" />
+    <SUITE FILE_PATH="coverage/tugas1$client.coverage" NAME="client Coverage Results" MODIFIED="1583139863110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tugas1$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1583140132981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tugas1a" />
+    <SUITE FILE_PATH="coverage/tugas1$server3.coverage" NAME="server3 Coverage Results" MODIFIED="1583139402657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tugas1$client__2_.coverage" NAME="client (2) Coverage Results" MODIFIED="1583140559381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tugas1b" />
+    <SUITE FILE_PATH="coverage/tugas1$server2.coverage" NAME="server2 Coverage Results" MODIFIED="1583139385974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tugas1$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1583140118914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tugas1a" />
+    <SUITE FILE_PATH="coverage/tugas1$server.coverage" NAME="server Coverage Results" MODIFIED="1583140393389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tugas1b" />
+    <SUITE FILE_PATH="coverage/tugas1$server__2_.coverage" NAME="server (2) Coverage Results" MODIFIED="1583139674819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
