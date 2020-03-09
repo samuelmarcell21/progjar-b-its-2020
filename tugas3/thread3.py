@@ -12,7 +12,7 @@ def download_gambar(url=None, nama_foto=None, thread=None):
     tipe['image/jpg']='jpg'
     tipe['image/jpeg']='jpg'
     content_type = ff.headers['Content-Type']
-    if (content_type in list(tipe.keys())):
+    if (content_type in list(tipe.keys())):``
         namafile = os.path.basename(url)
         ekstensi = tipe[content_type]
         fp = open(f"{nama_foto}.{ekstensi}","wb")
