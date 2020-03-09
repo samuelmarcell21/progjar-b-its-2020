@@ -12,3 +12,6 @@ Tugas1 :
 
 Tugas 2 :
 - Capture hasil wireshark pada file udpfileclient.py dan udp_simple.py
+
+Tugas 3 :
+- Download foto menggunakan multithread
