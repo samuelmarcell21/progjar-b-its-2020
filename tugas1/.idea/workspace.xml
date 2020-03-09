@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b864d517-83f2-476e-8611-bdb73e325c75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tugas1a/dariserver.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tugas1a/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tugas1a/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tugas1b/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tugas1b/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +17,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Semester 6/ProgJar/progjar" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,6 +165,8 @@
       <workItem from="1581860850800" duration="75000" />
       <workItem from="1581995376672" duration="82000" />
       <workItem from="1583139357668" duration="1397000" />
+      <workItem from="1583204449241" duration="142000" />
+      <workItem from="1583206922003" duration="56000" />
     </task>
     <servers />
   </component>
