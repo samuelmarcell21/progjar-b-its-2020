@@ -58,3 +58,7 @@ Setelah server dijalankan, maka salah satu dari 3 client dapat dijalankan
   <img src="/tugas4/dokumentasi/listFile.jpg"> </img>
 
 </ul>
+
+<h2>Cara Melakukan Request</h2>
+Untuk cara melakukan request sebagai client, saya tidak menggunakan fungsi input().
+Jadi kalau ingin mengganti file yang ingin di request, bisa diubah secara manual nama filenya di file client (kecuali fitur list karena tidak memerlukan nama file).
