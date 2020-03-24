@@ -12,6 +12,7 @@ try:
     sock.send(msg.encode())
     print("Requesting list of file")
     data = sock.recv(2048)
+    print("List of File accepted!")
     print(data.decode())
 finally:
     sock.close()

@@ -25,7 +25,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ambilListFile">
+  <component name="RunManager" selected="Python.tambahFile">
     <configuration name="ambilFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tugas4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,10 +116,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tambahFile" />
+        <item itemvalue="Python.ambilFile" />
         <item itemvalue="Python.ambilListFile" />
         <item itemvalue="Python.server" />
-        <item itemvalue="Python.ambilFile" />
-        <item itemvalue="Python.tambahFile" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584969590862</updated>
       <workItem from="1584969597072" duration="5996000" />
-      <workItem from="1585036423559" duration="874000" />
+      <workItem from="1585036423559" duration="2105000" />
     </task>
     <servers />
   </component>
@@ -142,9 +142,9 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tugas4$server.coverage" NAME="server Coverage Results" MODIFIED="1585037112032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tugas4$tambahFile.coverage" NAME="tambahFile Coverage Results" MODIFIED="1585036991553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tugas4$ambilFile.coverage" NAME="ambilFile Coverage Results" MODIFIED="1585036994230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tugas4$ambilListFile.coverage" NAME="ambilListFile Coverage Results" MODIFIED="1585037113526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tugas4$server.coverage" NAME="server Coverage Results" MODIFIED="1585038024573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tugas4$tambahFile.coverage" NAME="tambahFile Coverage Results" MODIFIED="1585038187725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tugas4$ambilFile.coverage" NAME="ambilFile Coverage Results" MODIFIED="1585038029556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tugas4$ambilListFile.coverage" NAME="ambilListFile Coverage Results" MODIFIED="1585038027907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

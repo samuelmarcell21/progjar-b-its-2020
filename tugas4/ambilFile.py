@@ -9,7 +9,7 @@ sock.connect(server_address)
 try:
     namafile = "ngeteh.txt"
     msg = "get " + namafile
-    print ("Requesting File to Server")
+    print (f"Requesting File {namafile} to Server")
     sock.send(msg.encode())
 
     isifile = sock.recv(4096)

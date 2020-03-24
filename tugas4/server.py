@@ -18,6 +18,7 @@ class ProcessTheClient(threading.Thread):
             data = self.connection.recv(4096)
             if data:
                 d = data.decode()
+                print(d)
                 hasil = pm.proses(d)
                 self.connection.sendall(hasil.encode())
             else:
@@ -42,7 +43,6 @@ class Server(threading.Thread):
                 clt = ProcessTheClient(self.connection, self.client_address)
                 clt.start()
                 self.the_clients.append(clt)
-
 
 def main():
     svr = Server()

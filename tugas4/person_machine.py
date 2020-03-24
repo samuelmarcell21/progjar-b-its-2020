@@ -4,6 +4,35 @@ import logging
 
 p = Person()
 
+'''
+    FORMAT DARI PROTOCOL
+    
+    Command nya adalah 2 string yang terpisah oleh spasi
+    Format : command *spasi* parameter (untuk add ada tambahan *spasi* parameter2)
+    FITUR YANG BISA DILAKUKAN :
+    a. Meletakkan File
+       Fitur ini digunakan untuk meletakkan file ke dalam folder "dropbox"
+       Request : add
+       Parameter : namafile *spasi* isi dari file 
+       Response yang diberikan: Jika berhasil -> "File successfully added!"
+                                Jika gagal -> "ERROR"
+                                
+    b. List File
+       Fitur ini digunakan untuk melihat list file di dalam folder 'dropbox'
+       Request : list
+       Parameter: -
+       Response: Jika berhasil -> "List of File accepted!"
+       
+    c. Mengambil File
+       Fitur ini digunakan untuk mengambil file berdasarkan nama file dari folder 'dropbox'
+       Request : get
+       Parameter : namafile yang ingin diambil
+       Response: jika berhasil -> "File has been received"
+                 jika gagal -> "ERROR"
+    d. Jika command tidak dikenali akan merespon dengan ERRCMD
+    
+'''
+
 class PersonMachine:
     def proses(self,string_to_process):
         s = string_to_process
